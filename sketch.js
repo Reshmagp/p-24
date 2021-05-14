@@ -28,7 +28,7 @@ function setup(){
     stone = new Stone(700,1,80,80);
     iron =new Iron(200,1,70,50);
     
-
+console.log("kk")
   
 
 
